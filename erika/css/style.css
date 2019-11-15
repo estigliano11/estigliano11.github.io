@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap');
+
+body {
+  background-color: #ffcc99;
+  color: #333;
+  font-family: "Verdana", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+  font-family: "Liu Jian Mao Cao", cursive;
+  font-size: 70px;
+  text-align: center;
+}
+
+img {
+  width: 500px;
+}
+
+p {
+  padding: 20px 100px;
+}
